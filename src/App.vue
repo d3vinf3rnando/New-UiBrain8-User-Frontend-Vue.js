@@ -4,11 +4,12 @@ import TheWelcome from './components/TheWelcome.vue'
 </script>
 
 <template>
+  
 <div>
-  <div class="flex justify-between gap-x-[7rem]">
-    <div class="order-first">UiBrain8</div>
-    <div class="order-last">0000</div>
-    
+  <div class="flex justify-center gap-4 bg-red-200">
+  <div>01</div>
+  <div>02</div>
+  <div>03</div>
 </div>
 </div>
 </template>
